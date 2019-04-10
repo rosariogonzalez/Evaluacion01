@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+body {
+
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.jumbotron{
+background: linear-gradient(to right, rgba(280 , 200 , 200 , 0.1) 0%,  
+	rgba( 100 , 100 , 100 , 0) 100%), 
+url("https://i.pinimg.com/564x/bd/7b/10/bd7b100b41dc4b6e2fa9de73b0e52751.jpg")
+}
